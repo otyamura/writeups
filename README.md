@@ -1,3 +1,3 @@
 # writeups
 
-ctfのwriteup置き場所
+ctfのwriteup置き場
